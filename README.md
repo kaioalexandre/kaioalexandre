@@ -1,10 +1,2 @@
-- 🔭 Atualmente estou trabalhando com visão computacional voltada para inspeção de placas PCB(placas de circuito impresso) utilizando técinicas de deeplearnin e processamento digital de imagens com python.
-- Experiência com análise de dados utilizando python.
-- 🌱 Atualmente estou aprendendo javascript, SQL, e me aprofundando mais em ferramnetas de manipulação e análise de dados.
-- 👯 Estou procurando por emprego na área de dados.
-- 📫 Como entrar em contato comigo: kaios19@outlook.com, celular/whatsapp: (92) 98443-5919  
+Engenheiro Eletricista e Analista de Desenvolvimento de Sistemas com experiência em automação industrial, robótica, sistemas embarcados e visão computacional. Atuação no desenvolvimento e integração de soluções industriais utilizando Python, OpenCV, PyTorch, TensorFlow e plataformas NVIDIA Jetson, aplicadas à Inteligência Artificial, inspeção automatizada e Edge AI. Experiência com programação, operação, calibração e troubleshooting de robôs Universal Robots (UR), Hiwin, JAKA e robôs cartesianos, além da integração com CLPs, sensores industriais e protocolos de comunicação como Modbus TCP/IP, Ethernet/IP e WebSocket. Possuo experiência em ambientes Linux, versionamento com Git e desenvolvimento de soluções voltadas à Indústria 4.0, sempre buscando inovação, eficiência e confiabilidade nos processos industriais.
 
-<!---
-kaioalexandre/kaioalexandre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
